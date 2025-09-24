@@ -42,7 +42,7 @@ Sentiment analysis of health-related aspects (dietary, emotional, mental, physic
 Top root causes affecting well-being categories.
 Yearly trends of passenger sentiment.
 
-📂 See /Result_Figure/ for full visualizations.
+📂 See [/Result_Figure/](Result_Figure) for full visualizations.
 
 Example:
 
@@ -58,9 +58,9 @@ Tools: Visual Studio Code
 
 📄 Project Report
 
-📘 [Read the full FYP Report] (docs.FYP_Report.pdf)
+📘 [Read the full FYP Report](docs.FYP_Report.pdf)
 
-⚖️ [MIT License] (License)
+⚖️ [MIT License](License)
 
 This project is licensed under the MIT License – see the LICENSE
 file for details.
