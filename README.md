@@ -10,20 +10,15 @@ The goal is to identify how airline service factors (e.g., food, staff service, 
 
 To identify and extract the key airline service factors from passenger reviews using topic 
 modelling.
-
 To map the extracted airline service factors to different passenger well-being dimensions. 
-
 To evaluate how the identified service aspects affect different dimensions of passenger well
 being.
 
-To provide actionable insights for improving airline services.
 
 📊 Dataset
 
 File: British_Airline_Dataset.csv
-
 Description: Contains British Airways customer reviews with service-related attributes and feedback text.
-
 Used for sentiment classification and aspect extraction.
 
 ⚠️ This dataset is included for academic purposes only (FYP). Not intended for commercial use.
@@ -31,31 +26,20 @@ Used for sentiment classification and aspect extraction.
 🛠️ Methodology
 
 Data Preprocessing
-
 Cleaning, tokenization, stopword removal, lemmatization.
-
 Aspect Extraction
-
 Identification of service-related aspects in reviews.
-
 Sentiment Analysis
-
 Classification into positive, negative, and neutral sentiments.
-
 Visualization
-
 Graphical insights on emotion distribution, health impact, and yearly sentiment trends.
 
 📈 Results & Figures
 
 Key findings include:
-
 Distribution of passenger emotions across service factors.
-
 Sentiment analysis of health-related aspects (dietary, emotional, mental, physical).
-
 Top root causes affecting well-being categories.
-
 Yearly trends of passenger sentiment.
 
 📂 See /Result_Figure/ for full visualizations.
@@ -74,9 +58,9 @@ Tools: Visual Studio Code
 
 📄 Project Report
 
-📘 Read the full FYP Report
+📘 [Read the full FYP Report] (docs.FYP_Report.pdf)
 
-⚖️ License
+⚖️ [MIT License] (License)
 
 This project is licensed under the MIT License – see the LICENSE
- file for details.
+file for details.
