@@ -56,11 +56,9 @@ Visualization: Matplotlib, Seaborn
 
 Tools: Visual Studio Code
 
-📄 Project Report
+📘 [Read the full FYP Report](docs/FYP_Report.pdf)
 
-📘 [Read the full FYP Report](docs.FYP_Report.pdf)
-
-⚖️ [MIT License](License)
+⚖️ [MIT License](LICENSE)
 
 This project is licensed under the MIT License – see the LICENSE
 file for details.
